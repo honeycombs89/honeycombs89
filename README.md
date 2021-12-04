@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @honeycombs89
-- 👀 I’m interested in ... learning code, specifically JS as I plan tpo become a web developer in the next six months.
-- 🌱 I’m currently learning ... Javascript and HTML5
+- 👀 I’m interested in ... learning code, specifically JS, CSS, and HTML as I plan to become a web developer within next six months.
+- 🌱 I’m currently learning ... Javascript, HTML, and CSS
 - 💞️ I’m looking to collaborate on ... anything relating to junior dev projects 
 - 📫 How to reach me ... necolley@gmail.com
 
