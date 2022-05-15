@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @honeycombs89
-- 👀 I’m interested in ... frontend web developement, backend web development, APIs, NFTs, Freelance Developer Opportunities.
-- 🌱 I’m currently learning ... mastering Javascript, as well as learning Java8, and React
-- 💞️ I’m looking to collaborate on ... frontend development projects 
-- 📫 How to reach me ... honeycombs89@icloud.com
+- 👋 Hi, I’m Nicole!
+- I am Software Engineer at 100 Devs.
+- MERN Stack Developer with a focus on APIs and Android Development.
+- Remotely located in beautiful Florida, USA !
 
 <!---
 honeycombs89/honeycombs89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
