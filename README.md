@@ -1,6 +1,4 @@
-![](https://github.com/honeycombs89/github_banner(1).png)
-
-
+<img align="right" alt="Coding" width="400" src="<img align="right" alt="Coding" width="400" src="">
 - 👋 Hi, I’m Nicole!
 - I'm Software Engineer at 100 Devs.
 - I also work as a Freelance Developer through my own company, The Calcutta Honeycomb.
