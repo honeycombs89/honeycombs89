@@ -1,4 +1,4 @@
-![](https://github.com/honeycombs89/github_banner.png)
+![](https://github.com/honeycombs89/github_banner(1).png)
 
 
 - 👋 Hi, I’m Nicole!
