@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Nicole!
-- I am Software Engineer at 100 Devs.
-- MERN Stack Developer with a focus on APIs and Android Development.
-- Remotely located in beautiful Florida, USA !
+- I'm Software Engineer at 100 Devs.
+- I also work as a Freelance Developer through my own company, The Calcutta Honeycomb.
+- MERN Stack Developer with a focus on front-end development. Shooting for the stars with global reach!
+- Remotely located in Beautiful Florida, USA !
 
 <!---
 honeycombs89/honeycombs89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
