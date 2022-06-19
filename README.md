@@ -1,5 +1,5 @@
-<img src='github_banner-canva.png' alt="banner"></img> <br>
-Hiya! <br> I'm Nicole Combs! (ya know, like honeycomb, but without the :bee:</g-emoji> .. ) I'm a Full stack Software Engineer currently residing in the :sunny: state! I love sunflowers :sunflower: and building sandcastles :european_castle: on the beach. <br>Front-end Development is my fave! I love seeing the color and design of my work come to life. I am currently with 100 Devs, but always looking for opportunities that will allow me to grow in my career.
+<img src='github_header_banner.png' alt="banner"></img> <br>
+My name is Nicole Combs. (Like honeycomb, but without the :bee:</g-emoji> .. ) I'm a Full stack Software Engineer currently residing in the :sunny: state! I love sunflowers :sunflower: and building sandcastles :european_castle: on the beach. <br>Front-end Development is my niche. I love seeing the colors and design POP on screen! I am currently with 100 Devs, but always looking for opportunities that will allow me to grow in my career.
 
 
 😄 Pronouns: She/Her <br>
@@ -13,7 +13,7 @@ Hiya! <br> I'm Nicole Combs! (ya know, like honeycomb, but without the :bee:</g-
 <p align="right">
 <a href="https://mobile.twitter.com/lilbiteve" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/nicole-c-combs/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<!--<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a> -->
 </p>
                                                                                                                 
                                                                                              
