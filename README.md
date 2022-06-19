@@ -1,4 +1,4 @@
-<img src='images/Github_banner.png' alt="banner"></img> <br>
+<img src='github_banner-canva.png' alt="banner"></img> <br>
 Hiya! <br> I'm Nicole Combs! (ya know, like honeycomb, but without the :bee:</g-emoji> .. ) I'm a Full stack Software Engineer currently residing in the :sunny: state! I love sunflowers :sunflower: and building sandcastles :european_castle: on the beach. <br>Front-end Development is my fave! I love seeing the color and design of my work come to life. I am currently with 100 Devs, but always looking for opportunities that will allow me to grow in my career.
 
 
