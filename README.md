@@ -1,3 +1,6 @@
+![](https://github.com/user/banner.png)
+
+
 - 👋 Hi, I’m Nicole!
 - I'm Software Engineer at 100 Devs.
 - I also work as a Freelance Developer through my own company, The Calcutta Honeycomb.
