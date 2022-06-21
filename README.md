@@ -1,5 +1,5 @@
 <img src='github_header_banner.png' alt="banner"></img> <br>
-My name is Nicole Combs. (Like honeycomb, but without the :bee:</g-emoji> .. ) I'm a Full stack Software Engineer currently residing in the :sunny: state! I love sunflowers :sunflower: and building sandcastles :european_castle: on the beach. Front-end Development is my niche. I love seeing the colors and design POP on screen! I am currently with 100 Devs, but always looking for opportunities that will allow me to grow in my career.
+My name is Nicole Combs. (Like honeycomb, but without the :bee:</g-emoji> .. ) I'm a Fullstack Software Engineer currently residing in the :sunny: state! I love sunflowers :sunflower: and building sandcastles :european_castle: on the beach. Front-end Development is my niche. I love seeing the colors and design POP on screen! I am currently with 100 Devs, but always looking for opportunities that will allow me to grow in my career.
 
 
 😄 Pronouns: She/Her <br>
