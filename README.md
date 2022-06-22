@@ -4,7 +4,7 @@ My name is Nicole Combs. (Like honeycomb, but without the :bee:</g-emoji> .. ) I
 
 😄 Pronouns: She/Her <br>
 :coffee: I currently write in Javascript, but am growing in profeciency with Java. <br>
-💡 Fun Fact: I'm the Ring-Master of a three-ring circus :circus_tent: each day. The show acts consist of: 4 children, 4 dogs, 1 cat, and a husband. I was born to flourish in pandemonium :sparkles:
+💡 Fun Fact: I'm Ringmaster of a three-ring circus :circus_tent: each day. The show acts consist of: 4 children, 4 dogs, 1 cat, and a husband. I was born to flourish in pandemonium :sparkles:
 
 ![Nicole's github stats](https://github-readme-stats.vercel.app/api?username=honeycombs89&theme=panda&layout=compact)
 
